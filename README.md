@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-- 🏫 **Currently Studying:** Computer Programming at **Marmara University** (Distance Learning).
+- 🏫 **Currently Studying:** Computer Programming at **Marmara University**.
 - 💼 **Professional Experience:** Completed IT & Software Support internship at **İnnova Bilişim**  and an international Erasmus+ embedded systems internship in **Barcelona, Spain** .
 - 🏆 **Hackathons & Competitions:** Participant and finalist in hackathons including **DataMedX Hackathon** (DiaPusula project)  and **Finansla Gelecek Hackathon** .
 - 🚀 **Currently Working On:** Cross-platform mobile applications (React Native / Capacitor) and AI-driven web systems.
