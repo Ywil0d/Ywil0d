@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Yağmur! 👋 </h1>
 
-<!--
-**Ywil0d/Ywil0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>A passionate software developer studying Computer Programming at Marmara University with a strong background in web, mobile, and game development.</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🏫 **Currently Studying:** Computer Programming at **Marmara University** (Distance Learning).
+- 💼 **Professional Experience:** Completed IT & Software Support internship at **İnnova Bilişim**[cite: 1] and an international Erasmus+ embedded systems internship in **Barcelona, Spain**[cite: 1].
+- 🏆 **Hackathons & Competitions:** Participant and finalist in hackathons including **DataMedX Hackathon** (DiaPusula project)[cite: 1] and **Finansla Gelecek Hackathon**[cite: 1].
+- 🚀 **Currently Working On:** Cross-platform mobile applications (React Native / Capacitor) and AI-driven web systems.
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Programming Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+#### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🎮 Game Dev & Hardware
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### 🌟 Featured Projects & Achievements
+
+- 🩺 **DiaPusula (AI Healthcare Asistant):** AI-assisted triage and decision support system built with React, Next.js, FastAPI, and Firebase (Developed for DataMedX Hackathon)[cite: 1].
+- 🏋️ **Fit Track AI:** Cross-platform fitness tracking system built with Next.js, Capacitor, and RevenueCat SDK integration.
+- 🎮 **School Intro & 3D Adventure Game:** Interactive 3D project where I served as Project Manager, built using Unity, C#, and Blender[cite: 1].
+- 🇪🇸 **Erasmus+ Spain Mobility:** Hands-on training in Arduino and embedded systems prototying in Barcelona[cite: 1].
+
+---
+
+### 📫 Let's Connect
+
+- ✉️ **Email:** [yagmur.g.caldas@gmail.com](mailto:yagmur.g.caldas@gmail.com)[cite: 1]
+- 💼 **LinkedIn:** [linkedin.com/in/yagmur-gulseren-caldas](https://linkedin.com/in/yagmur-gulseren-caldas)[cite: 1]
+- 🐙 **GitHub:** [github.com/Ywil0d](https://github.com/Ywil0d)[cite: 1]
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ywil0d&show_icons=true&theme=dark" alt="Yağmur's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ywil0d&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>🚀 Always building, always learning!</i>
+</p>
