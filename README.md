@@ -9,8 +9,8 @@
 ### 👩‍💻 About Me
 
 - 🏫 **Currently Studying:** Computer Programming at **Marmara University** (Distance Learning).
-- 💼 **Professional Experience:** Completed IT & Software Support internship at **İnnova Bilişim**[cite: 1] and an international Erasmus+ embedded systems internship in **Barcelona, Spain**[cite: 1].
-- 🏆 **Hackathons & Competitions:** Participant and finalist in hackathons including **DataMedX Hackathon** (DiaPusula project)[cite: 1] and **Finansla Gelecek Hackathon**[cite: 1].
+- 💼 **Professional Experience:** Completed IT & Software Support internship at **İnnova Bilişim**  and an international Erasmus+ embedded systems internship in **Barcelona, Spain** .
+- 🏆 **Hackathons & Competitions:** Participant and finalist in hackathons including **DataMedX Hackathon** (DiaPusula project)  and **Finansla Gelecek Hackathon** .
 - 🚀 **Currently Working On:** Cross-platform mobile applications (React Native / Capacitor) and AI-driven web systems.
 
 ---
@@ -41,18 +41,18 @@
 
 ### 🌟 Featured Projects & Achievements
 
-- 🩺 **DiaPusula (AI Healthcare Asistant):** AI-assisted triage and decision support system built with React, Next.js, FastAPI, and Firebase (Developed for DataMedX Hackathon)[cite: 1].
+- 🩺 **DiaPusula (AI Healthcare Asistant):** AI-assisted triage and decision support system built with React, Next.js, FastAPI, and Firebase (Developed for DataMedX Hackathon) .
 - 🏋️ **Fit Track AI:** Cross-platform fitness tracking system built with Next.js, Capacitor, and RevenueCat SDK integration.
-- 🎮 **School Intro & 3D Adventure Game:** Interactive 3D project where I served as Project Manager, built using Unity, C#, and Blender[cite: 1].
-- 🇪🇸 **Erasmus+ Spain Mobility:** Hands-on training in Arduino and embedded systems prototying in Barcelona[cite: 1].
+- 🎮 **School Intro & 3D Adventure Game:** Interactive 3D project where I served as Project Manager, built using Unity, C#, and Blender .
+- 🇪🇸 **Erasmus+ Spain Mobility:** Hands-on training in Arduino and embedded systems prototying in Barcelona .
 
 ---
 
 ### 📫 Let's Connect
 
-- ✉️ **Email:** [yagmur.g.caldas@gmail.com](mailto:yagmur.g.caldas@gmail.com)[cite: 1]
-- 💼 **LinkedIn:** [linkedin.com/in/yagmur-gulseren-caldas](https://linkedin.com/in/yagmur-gulseren-caldas)[cite: 1]
-- 🐙 **GitHub:** [github.com/Ywil0d](https://github.com/Ywil0d)[cite: 1]
+- ✉️ **Email:** [yagmur.g.caldas@gmail.com](mailto:yagmur.g.caldas@gmail.com) 
+- 💼 **LinkedIn:** [linkedin.com/in/yagmur-gulseren-caldas](https://linkedin.com/in/yagmur-gulseren-caldas) 
+- 🐙 **GitHub:** [github.com/Ywil0d](https://github.com/Ywil0d) 
 
 ---
 
