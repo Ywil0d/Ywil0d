@@ -18,7 +18,6 @@
   - IT & Software Support Intern at İnnova Bilişim Çözümleri, Istanbul (Sep 2025 – Jun 2026): second-level technical support, hardware/software troubleshooting, OS setup and updates
   - Erasmus+ Intern at Setitem, Barcelona, Spain (Mar–Apr 2025): Arduino, embedded systems and prototyping in an international team
 - **Hackathons:** DataMedX Hackathon (İstinye University) with the DiaPusula project, and Finansla Gelecek Hackathon (Habitat Association) with the GenPass project
-- **Currently working on:** Cross-platform mobile apps and AI-driven web systems
 - **Languages:** Turkish (native), English (B2)
 - **Goal:** Building an international career in software development
 
