@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md">English</a> | <b>Türkçe</b>
+  <a href="README.md">English</a> | <a href="READMETR.md">Türkçe</a>
 </p>
 
 <h1 align="center">Merhaba, ben Yağmur</h1>
