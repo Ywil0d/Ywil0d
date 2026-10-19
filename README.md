@@ -13,7 +13,7 @@
 ### About Me
 
 - **Studying:** Computer Programming at Marmara University, Istanbul
-- **Background:** Graduated as valedictorian (top of my class) from the Software Development program, Information Technologies Department, at Halis Kutmangil Vocational and Technical Anatolian High School (2022–2026)
+- **Background:** Graduated as valedictorian (top of my school) from the Software Development program, Information Technologies Department, at Halis Kutmangil Vocational and Technical Anatolian High School (2022–2026)
 - **Experience:**
   - IT & Software Support Intern at İnnova Bilişim Çözümleri, Istanbul (Sep 2025 – Jun 2026): second-level technical support, hardware/software troubleshooting, OS setup and updates
   - Erasmus+ Intern at Setitem, Barcelona, Spain (Mar–Apr 2025): Arduino, embedded systems and prototyping in an international team
