@@ -2,31 +2,31 @@
   <a href="README.md">English</a> | <a href="READMETR.md">Türkçe</a>
 </p>
 
-<h1 align="center">Merhaba, ben Yağmur</h1>
+<h1 align="center">Hi, I'm Yağmur</h1>
 
 <p align="center">
-  <i>Marmara Üniversitesi Bilgisayar Programcılığı öğrencisi ve web, mobil, oyun geliştirme ile gömülü sistemler alanlarında uygulamalı deneyime sahip yazılım geliştiriciyim.</i>
+  <i>Computer Programming student at Marmara University and software developer with hands-on experience in web, mobile, game development and embedded systems.</i>
 </p>
 
 ---
 
-### Hakkımda
+### About Me
 
-- **Eğitim:** Marmara Üniversitesi, Bilgisayar Programcılığı, İstanbul
-- **Geçmiş:** Halis Kutmangil Mesleki ve Teknik Anadolu Lisesi Bilişim Teknolojileri Alanı Yazılım Geliştirme Bölümü'nden okul birincisi olarak mezun oldum (2022–2026)
-- **Deneyim:**
-  - İnnova Bilişim Çözümleri'nde BT ve Yazılım Destek Stajyeri, İstanbul (Eylül 2025 – Haziran 2026): ikinci seviye teknik destek, donanım/yazılım sorun giderme, işletim sistemi kurulumu ve güncellemeleri
-  - Setitem'de Erasmus+ Stajyeri, Barselona, İspanya (Mart–Nisan 2025): uluslararası bir ekiple Arduino, gömülü sistemler ve prototip geliştirme
-- **Hackathonlar:** DiaPusula projesiyle DataMedX Hackathon (İstinye Üniversitesi) ve GenPass projesiyle Finansla Gelecek Hackathon (Habitat Derneği)
-- **Şu anda üzerinde çalıştığım konular:** Çok platformlu mobil uygulamalar ve yapay zeka destekli web sistemleri
-- **Diller:** Türkçe (ana dil), İngilizce (B2)
-- **Hedef:** Yazılım geliştirme alanında uluslararası bir kariyer
+- **Studying:** Computer Programming at Marmara University, Istanbul
+- **Background:** Graduated as valedictorian (top of my class) from the Software Development program, Information Technologies Department, at Halis Kutmangil Vocational and Technical Anatolian High School (2022–2026)
+- **Experience:**
+  - IT & Software Support Intern at İnnova Bilişim Çözümleri, Istanbul (Sep 2025 – Jun 2026): second-level technical support, hardware/software troubleshooting, OS setup and updates
+  - Erasmus+ Intern at Setitem, Barcelona, Spain (Mar–Apr 2025): Arduino, embedded systems and prototyping in an international team
+- **Hackathons:** DataMedX Hackathon (İstinye University) with the DiaPusula project, and Finansla Gelecek Hackathon (Habitat Association) with the GenPass project
+- **Currently working on:** Cross-platform mobile apps and AI-driven web systems
+- **Languages:** Turkish (native), English (B2)
+- **Goal:** Building an international career in software development
 
 ---
 
-### Teknolojiler
+### Tech Stack
 
-#### Programlama Dilleri
+#### Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,7 +35,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Frameworkler ve Kütüphaneler
+#### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -44,7 +44,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### Oyun Geliştirme, Donanım ve Multimedya
+#### Game Dev, Hardware & Multimedia
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -53,43 +53,42 @@
 
 ---
 
-### Öne Çıkan Projeler
+### Featured Projects
 
-- **DiaPusula (Yapay Zeka Destekli Sağlık Asistanı):** React, Next.js, FastAPI ve Firebase ile geliştirilen, yapay zeka destekli triyaj ve karar destek sistemi. DataMedX Hackathon için geliştirildi.
-- **GenPass:** Habitat Derneği tarafından düzenlenen Finansla Gelecek Hackathon'unda ekibimle birlikte geliştirdiğim proje.
-- **Okul Tanıtım ve 3D Macera Oyunu:** Unity, C# ve Blender ile geliştirilen interaktif 3D oyun. Projede Proje Yöneticisi olarak planlama, koordinasyon ve geliştirme süreçlerinde görev aldım.
-- **Erasmus+ İspanya Hareketliliği:** Barselona'daki stajım sırasında Arduino ve gömülü sistemler üzerine uygulamalı prototip çalışmaları.
-- **Dijital İçerik Üretimi:** Adobe Photoshop ve After Effects ile 5 yılı aşkın süredir video, fotoğraf ve dijital içerik üretimi.
-
----
-
-### Sertifikalar
-
-- Erasmus+ Öğrenci Hareketliliği Belgesi
-- DataMedX Hackathon Katılım Belgesi, İstinye Üniversitesi
-- Finansla Gelecek Hackathon Kabul Belgesi, Habitat Derneği
+- **DiaPusula (AI Healthcare Assistant):** AI-assisted triage and decision support system built with React, Next.js, FastAPI and Firebase, developed for the DataMedX Hackathon.
+- **GenPass:** Project developed with my team at the Finansla Gelecek Hackathon, organized by Habitat Association.
+- **School Intro & 3D Adventure Game:** Interactive 3D game built with Unity, C# and Blender, where I served as Project Manager (planning, coordination and development).
+- **Erasmus+ Spain Mobility:** Hands-on Arduino and embedded systems prototyping during my internship in Barcelona.
+- **Digital Content:** 5+ years of video, photo and digital content production with Adobe Photoshop and After Effects.
 
 ---
 
-### İletişim
+### Certificates
 
-- **E-posta:** [yagmur.g.caldas@gmail.com](mailto:yagmur.g.caldas@gmail.com)
+- Erasmus+ Student Mobility Certificate
+- DataMedX Hackathon Participation Certificate, İstinye University
+- Finansla Gelecek Hackathon Acceptance Certificate, Habitat Association
+
+---
+
+### Let's Connect
+
+- **Email:** [yagmur.g.caldas@gmail.com](mailto:yagmur.g.caldas@gmail.com)
 - **LinkedIn:** [linkedin.com/in/yagmur-gulseren-caldas](https://linkedin.com/in/yagmur-gulseren-caldas)
 - **GitHub:** [github.com/Ywil0d](https://github.com/Ywil0d)
 
 ---
 
-### GitHub İstatistikleri
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ywil0d&show_icons=true&theme=dark" alt="Yağmur'un GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ywil0d&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ywil0d&show_icons=true&theme=dark" alt="Yağmur's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ywil0d&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 
-
 <p align="center">
-  <i>Sürekli üretiyor, sürekli öğreniyorum.</i>
+  <i>Always building, always learning.</i>
 </p>
 
